@@ -24,3 +24,13 @@ __Sample Output__
 ```
 13
 ```
+
+## Solution Usage
+The solution was written to comply with Python 2.x, and can be run as follows:
+
+```
+python common.py < input_1.txt
+python common.py < input_2.txt
+python common.py < input_3.txt
+python common.py < input_4.txt
+```
