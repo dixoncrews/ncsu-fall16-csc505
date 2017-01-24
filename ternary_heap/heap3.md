@@ -25,4 +25,13 @@ Commands will continue until the end-of-file on standard input. You won’t have
 
 Call your program heap3.c, heap3.cpp, heap3.java, or heap3.py, depending on your implementation language.
 
-## Sample Execution
+## Solution Usage
+
+The solution was written for use with Python 3.x. Three input and output files are provided, and they can be used as follows:
+
+```
+python3 heap3.py < input_h10.txt > output.txt
+diff output.txt expected_h10.txt 
+```
+
+Repeat for the other two input/output files. No output from calling `diff` means the files match exactly.
