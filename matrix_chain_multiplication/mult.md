@@ -1,4 +1,4 @@
-# heap3.py
+# mult.py
 
 ## Problem Statement
 
