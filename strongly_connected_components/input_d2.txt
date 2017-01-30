@@ -1,0 +1,19 @@
+7
+apples
+boxes
+cake
+detergent
+eggplant
+foil
+gloves
+10
+eggplant detergent
+apples foil
+foil cake
+apples gloves
+cake eggplant
+cake boxes
+boxes eggplant
+detergent boxes
+gloves detergent
+foil apples

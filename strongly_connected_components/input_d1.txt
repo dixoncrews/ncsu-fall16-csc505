@@ -1,0 +1,12 @@
+5
+variables
+types
+scope
+assignments
+declarations
+5
+types declarations
+variables scope
+scope declarations
+declarations variables
+variables assignments
