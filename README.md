@@ -21,4 +21,6 @@ This repository will hold some code written for CSC505 taught by Dr. David Sturg
 
 * huffman_codes: See [huffman.md](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/huffman_codes/huffman.md).
 
-* all_pairs_shortest_paths: See [allpairs.md](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/all_pairs_shortest_paths/allpairs.md). 
+* all_pairs_shortest_paths: See [allpairs.md](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/all_pairs_shortest_paths/allpairs.md).
+
+* max_network_flow: See [maxflow.md](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/max_network_flow/maxflow.md). 
