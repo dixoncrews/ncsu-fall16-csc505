@@ -21,7 +21,7 @@ Input will come from standard input and will start with a pair of numbers, n and
 
 This describes a graph that looks like:
 
-![Graph 1](https://raw.githubusercontent.com/dixoncrews/ncsu-fall16-csc505/master/max_network_flow/graph1.png "Graph 1")
+<img src="https://raw.githubusercontent.com/dixoncrews/ncsu-fall16-csc505/master/max_network_flow/graph1.png" align="center" height="100" />
 
 ### Program Output
 
@@ -40,7 +40,7 @@ The output of your program will describe the maximum flow from the source to the
 
 Along with the graph description above, this describes a flow that looks like:
 
-![Graph 2](https://raw.githubusercontent.com/dixoncrews/ncsu-fall16-csc505/master/max_network_flow/graph2.png "Graph 2")
+<img src="https://raw.githubusercontent.com/dixoncrews/ncsu-fall16-csc505/master/max_network_flow/graph2.png" align="center" height="100" />
 
 ## Solution Usage
 
