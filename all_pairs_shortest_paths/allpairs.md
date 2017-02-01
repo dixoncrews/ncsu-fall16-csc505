@@ -14,7 +14,7 @@ Then, your program will respond to a sequence of queries. Each querry will give 
 
 For each query, there may be multiple equally short paths. Your program can print out any one of them.
 
-If you want, you can use the O(V 2) technique we developed in class for recovering a shortest path. Or, if you’d like 5 points of extra credit, you can implement a linear-time technique instead. To do this, as you fill in the table, keep a record of the value, k that achieves the shortest path between each pair of vertices. Then, when you need to recover a shortest path from some i to j, you can first check to see if there’s a direct edge. If not, you can lookup the vertex k that the path goes through. Then, recursively recover a shortest path from i to k and then from k to j.
+If you want, you can use the O(V^2) technique we developed in class for recovering a shortest path. Or, if you’d like 5 points of extra credit, you can implement a linear-time technique instead. To do this, as you fill in the table, keep a record of the value, k that achieves the shortest path between each pair of vertices. Then, when you need to recover a shortest path from some i to j, you can first check to see if there’s a direct edge. If not, you can lookup the vertex k that the path goes through. Then, recursively recover a shortest path from i to k and then from k to j.
 
 ### Input
 
