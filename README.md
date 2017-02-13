@@ -23,4 +23,6 @@ This repository will hold some code written for CSC505 taught by Dr. David Sturg
 
 * all_pairs_shortest_paths: See [allpairs.md](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/all_pairs_shortest_paths/allpairs.md).
 
-* max_network_flow: See [maxflow.md](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/max_network_flow/maxflow.md). 
+* max_network_flow: See [maxflow.md](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/max_network_flow/maxflow.md).
+
+* knuth_morris_pratt: See [kmp.md](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/knuth_morris_pratt/kmp.md). 
