@@ -1,3 +1,5 @@
+### Take me to the [SOLUTION](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/all_pairs_shortest_paths/allpairs.py)!
+
 # allpairs.py
 
 ## Problem Statement

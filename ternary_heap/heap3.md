@@ -1,3 +1,5 @@
+### Take me to the [SOLUTION](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/ternary_heap/heap3.py)!
+
 # heap3.py
 
 ## Problem Statement

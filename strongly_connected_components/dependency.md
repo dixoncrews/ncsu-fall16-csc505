@@ -1,3 +1,5 @@
+### Take me to the [SOLUTION](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/strongly_connected_components/dependency.py)!
+
 # dependency.py
 
 ## Problem Statement

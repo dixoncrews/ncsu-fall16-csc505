@@ -1,3 +1,5 @@
+### Take me to the [SOLUTION](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/quicksort_base_case_comparison/qsort.py)!
+
 # qsort.py
 
 ## Problem Statement
