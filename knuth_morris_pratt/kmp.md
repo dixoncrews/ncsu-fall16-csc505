@@ -1,3 +1,5 @@
+**Take me to the [SOLUTION](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/common_substring/common.py)!**
+
 # kmp.py
 
 ## Problem Statement
