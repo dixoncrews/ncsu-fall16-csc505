@@ -1,28 +1,34 @@
-# CSC505: Design and Analysis of Algorithms
+# ncsu-fall16-csc505
 
-This repository will hold some code written for CSC505 taught by Dr. David Sturgill at NC State University in Fall 2016. The included problem statements were not written by me, they are taken from the assignment descriptions.
+This repository holds code I wrote for CSC 505 (Design and Analysis of Algorithms) with by Dr. David Sturgill at [NC State University](https://ncsu.edu) in Fall 2016.
+
+## Course Description
+
+_Algorithm design techniques: use of data structures, divide and conquer, dynamic programming, greedy techniques, local and global search. Complexity and analysis of algorithms: asymptotic analysis, worst case and average case, recurrences, lower bounds, NP-completeness. Algorithms for classical problems including sorting, searching and graph problems [connectivity, shortest paths, minimum spanning trees]._
 
 ## Citation Notes
 
 * The included problem statements were not written by me, they are taken from the assignment descriptions given in class.
-* Any references to "our textbook" are to Introduction to Algorithms, 3rd Edition by Cormen, Leiserson, Rivest, and Stein.
+* Any references to "our textbook" are to [Introduction to Algorithms, 3rd Edition by Cormen, Leiserson, Rivest, and Stein](https://mitpress.mit.edu/books/introduction-algorithms).
 
 ## Folder Descriptions
 
-* common_substring: See [common.md](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/common_substring/common.md).
+Each folder in the repository corresponds to one problem from a homework assignment. The links below take you to the problem descriptions:
 
-* ternary_heap: See [heap3.md](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/ternary_heap/heap3.md).
+* [common_substring](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/common_substring/common.md).
 
-* quicksort_base_case_comparison: See [qsort.md](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/quicksort_base_case_comparison/qsort.md).
+* [ternary_heap](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/ternary_heap/heap3.md).
 
-* matrix_chain_multiplication: See [mult.md](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/matrix_chain_multiplication/mult.md).
+* [quicksort_base_case_comparison](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/quicksort_base_case_comparison/qsort.md).
 
-* strongly_connected_components: See [dependency.md](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/strongly_connected_components/dependency.md). 
+* [matrix_chain_multiplication](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/matrix_chain_multiplication/mult.md).
 
-* huffman_codes: See [huffman.md](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/huffman_codes/huffman.md).
+* [strongly_connected_components](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/strongly_connected_components/dependency.md). 
 
-* all_pairs_shortest_paths: See [allpairs.md](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/all_pairs_shortest_paths/allpairs.md).
+* [huffman_codes](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/huffman_codes/huffman.md).
 
-* max_network_flow: See [maxflow.md](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/max_network_flow/maxflow.md).
+* [all_pairs_shortest_paths](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/all_pairs_shortest_paths/allpairs.md).
 
-* knuth_morris_pratt: See [kmp.md](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/knuth_morris_pratt/kmp.md). 
+* [max_network_flow](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/max_network_flow/maxflow.md).
+
+* [knuth_morris_pratt](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/knuth_morris_pratt/kmp.md). 
