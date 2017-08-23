@@ -15,20 +15,20 @@ _Algorithm design techniques: use of data structures, divide and conquer, dynami
 
 Each folder in the repository corresponds to one problem from a homework assignment. The links below take you to the problem descriptions:
 
-* [common_substring](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/common_substring/common.md).
+* [common_substring](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/common_substring/common.md)
 
-* [ternary_heap](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/ternary_heap/heap3.md).
+* [ternary_heap](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/ternary_heap/heap3.md)
 
-* [quicksort_base_case_comparison](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/quicksort_base_case_comparison/qsort.md).
+* [quicksort_base_case_comparison](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/quicksort_base_case_comparison/qsort.md)
 
-* [matrix_chain_multiplication](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/matrix_chain_multiplication/mult.md).
+* [matrix_chain_multiplication](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/matrix_chain_multiplication/mult.md)
 
-* [strongly_connected_components](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/strongly_connected_components/dependency.md). 
+* [strongly_connected_components](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/strongly_connected_components/dependency.md)
 
-* [huffman_codes](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/huffman_codes/huffman.md).
+* [huffman_codes](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/huffman_codes/huffman.md)
 
-* [all_pairs_shortest_paths](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/all_pairs_shortest_paths/allpairs.md).
+* [all_pairs_shortest_paths](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/all_pairs_shortest_paths/allpairs.md)
 
-* [max_network_flow](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/max_network_flow/maxflow.md).
+* [max_network_flow](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/max_network_flow/maxflow.md)
 
-* [knuth_morris_pratt](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/knuth_morris_pratt/kmp.md). 
+* [knuth_morris_pratt](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/knuth_morris_pratt/kmp.md) 
