@@ -1,3 +1,5 @@
+### Take me to the [SOLUTION](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/max_network_flow/maxflow.py)!
+
 # maxflow.py
 
 ## Problem Statement
