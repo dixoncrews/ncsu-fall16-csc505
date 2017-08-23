@@ -1,6 +1,4 @@
-<p align="center">
-    **Take me to the [SOLUTION](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/knuth_morris_pratt/kmp.py)!**
-</p>
+### Take me to the [SOLUTION](https://github.com/dixoncrews/ncsu-fall16-csc505/blob/master/knuth_morris_pratt/kmp.py)!
 
 # kmp.py
 
