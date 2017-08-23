@@ -1,6 +1,6 @@
 # ncsu-fall16-csc505
 
-This repository holds code I wrote for CSC 505 (Design and Analysis of Algorithms) with by Dr. David Sturgill at [NC State University](https://ncsu.edu) in Fall 2016.
+This repository holds code I wrote for CSC 505 (Design and Analysis of Algorithms) with Dr. David Sturgill at [NC State University](https://ncsu.edu) in Fall 2016.
 
 ## Course Description
 
